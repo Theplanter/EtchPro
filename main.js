@@ -5,7 +5,7 @@ const eraser = document.querySelector("#eraser")
 const crazy = document.querySelector("#crazy")
 const normal = document.querySelector("#normal")
 
-
+//default size
 let siz = 10
 
 //change the number to determine of its a eraser, rainbow or a normal color
